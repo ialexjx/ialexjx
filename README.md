@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Jaiswal</h1>
+<h1 align="center">Hello, I'm Akshat Jaiswal</h1>
 <h3 align="center">Software Engineer from India</h3>
 
 - 🔭 I’m currently working on -> Fintech solutions (VKYC, KYC, E-NACH, VIDEO-PD, AWS, MYSQL)
