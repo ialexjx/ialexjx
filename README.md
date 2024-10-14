@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Akshat Jaiswal</h1>
 <h3 align="center">Software Engineer from India</h3>
 
-- 🔭 I’m currently working on -> Fintech solutions (VKYC, KYC, E-NACH, VIDEO-PD, AWS, MYSQL)
-- 🌱 I’m currently learning  -> Java, AWS, GO, C, Spring-Boot
+- 🔭 I’m currently working on -> Fintech solutions (KYC, VKYC, E-Nach, Video-PD, E-Sign, Clickwrap, mySQL)
+- 🌱 I’m currently learning  -> Java, Spring-Boot, AWS, GO, C, System Design
 - 👯 I’m looking to collaborate on -> Open Source
 - 💬 Ask me about -> Java, DSA
 - 📫 How to reach me -> akshathrx6393@gmail.com, +91 9839783219
